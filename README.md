@@ -1,3 +1,29 @@
+# Twenty One Community
+
+**Idea**: I think we could make blockchain where 21 coins will be distributed among 21 * 100000000 addresses generated from genesis block hash. Each address should have 0.00000001 coin.
+At start we should have 2 100 000 000 addresses with 0.00000001 coin at each address
+We have to change bitcoin source code. All coins must be found in first block.
+Coins found in frist block must be sent to 2 100 000 000 addresses. 1 address should have only 0.00000001 coin.
+Addresses must be generated like pseudorandom address from genesis block hash without private or public keys. We need hardcode this in source code. 
+Mining only needed for including transactions to blocks. Does not imply block reward or comissions and transaction fee reward. 
+Transaction fee is zero.
+21 coins at all.
+Everybody may pseudomine coins with brute force addresses with balances. It's the only way to pseudomine coins. I think brute force is an honest way to distribute coins among users. Every user has equal chanses. No matter how much power, coins, wealth user has. It's only luck. 
+Project not seeking the way to resolve transaction problem. This project create really rare asset for value storage. 
+We could change PoW to PoS or DPOS consensus. Without rewards or fees. Every wallet may be full node.
+Brute forcing addresses is not a waste of time. It's a chance. 
+
+I'm looking for people who will support my idea and help me in developing. Absolutely open source. Developers, crypto enthusiasts, anarhists, blockchain developers we all need this system let's do it together. 
+
+*Sorry for my English. I can read very well, but my writing skills are awful, I know.*
+
+GPG: pgp.mit.edu 40FF484A75D43B88
+
+Contacts:
+Email: itwtkhaba@protonmail.com
+GitHub: https://github.com/itwtkhaba
+Reddit: itwtkhaba
+
 Bitcoin Core integration/staging tree
 =====================================
 
