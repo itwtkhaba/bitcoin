@@ -34,6 +34,14 @@ Email: itwtkhaba@protonmail.com
 GitHub: https://github.com/itwtkhaba
 Reddit: itwtkhaba
 
+Communities:
+
+https://bitcointalk.org/index.php?topic=5242564.0
+
+https://forum.bits.media/index.php?/topic/166062-%D1%81%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%BE-%D0%B4%D0%B2%D0%B0%D0%B4%D1%86%D0%B0%D1%82%D0%B8-%D0%BE%D0%B4%D0%BD%D0%BE%D0%B3%D0%BE/
+
+
+
 Bitcoin Core integration/staging tree
 =====================================
 
